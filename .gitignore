@@ -1,1 +1,3 @@
-.config/ .replit *.nix
+.config/
+*.replit
+*.nix
